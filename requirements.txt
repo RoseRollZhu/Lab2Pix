@@ -1,0 +1,7 @@
+torch>=1.0.0
+torchvision
+dominate
+dill
+scikit-image
+pillow
+numpy
