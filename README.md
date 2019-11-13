@@ -10,7 +10,7 @@ Code will be released soon
 Clone this repo.
 
 ```bash
-git clone https://github.com/ProfessorRecall/Lab2Pix.git
+git clone https://github.com/Wowil/Lab2Pix.git
 cd Lab2Pix/
 ```
 
