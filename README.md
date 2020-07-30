@@ -2,19 +2,20 @@
 
 ![](./demo/demo.png)
 
-Lab2Pix: Label-Adaptive Generative Adversarial Network for Unsupervised Image Synthesis
+Lab2Pix: Label-Adaptive Generative Adversarial Network for Unsupervised Image Synthesis.
+In ACM MM 2020.
 
-Code will be released soon
+Code will be released soon.
 
 ## Installztion
 Clone this repo.
 
 ```bash
-git clone https://github.com/Wowil/Lab2Pix.git
+git clone https://github.com/RoseRollZhu/Lab2Pix.git
 cd Lab2Pix/
 ```
 
-This code requires PyTorch 0.4.0+ and python 3+. PyTorch 1.0.0 + and python 3.6.0 + are recommonded. Please install dependencies by
+This code requires PyTorch framework and CUDA environment. PyTorch 1.0.0 + and python 3.7.0 + with Anaconda environment are recommonded. Please install dependencies by
 
 ```bash
 pip install -r requirements.txt
